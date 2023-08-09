@@ -4,3 +4,4 @@
 1. [Utility classes](/instructions/utility_classes)
 1. [My frequently-used components](/instructions/frequently_used_components)
 1. [Grid](/instructions/grid)
+1. [Bootstrap ❤️ ERB](/instructions/dynamic_list_group)
