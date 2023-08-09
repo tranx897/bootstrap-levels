@@ -3,10 +3,10 @@ Fortunately for us, there are some brilliant, generous developers who have also 
 Let's add their stylesheet to our app. In `app/views/layouts/application.html.erb`, add this:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.css">
 ```
 
-You can <a href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.css" target="_blank">visit the URL of the stylesheet</a> if you want to, but it's a huge file and hard to understand just by reading the code. Let's look at some examples together instead.
+You can <a href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.css" target="_blank">visit the URL of the stylesheet</a> if you want to, but it's a huge file and hard to understand just by reading the code. Let's look at some examples together instead.
 
 ---
 
@@ -31,7 +31,7 @@ After you've `<link>`ed `bootstrap.css` in the application layout, try copy-past
 
 ---
 
-How did I know what these class names were? I certainly didn't read the 10,000+ line stylesheet to find out. Instead, I browsed through Bootstrap's (excellent) docs. <a href="https://getbootstrap.com/docs/5.2/components/buttons/" target="_blank">Check out their page for Buttons.</a>
+How did I know what these class names were? I certainly didn't read the 10,000+ line stylesheet to find out. Instead, I browsed through Bootstrap's (excellent) docs. <a href="https://getbootstrap.com/docs/5.3/components/buttons/" target="_blank">Check out their page for Buttons.</a>
 
 My process is usually:
 
