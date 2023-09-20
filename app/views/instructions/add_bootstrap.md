@@ -1,6 +1,6 @@
 Fortunately for us, there are some brilliant, generous developers who have also built up a "tool belt" of style rules for common use-cases. They called their stylesheet `bootstrap.css`, and they've shared it for free.
 
-Let's add their stylesheet to our app. In `app/views/layouts/application.html.erb`, add this:
+Let's add their stylesheet to our app. In `app/views/layouts/application.html.erb`, add this (don't add it twice if you already see it there):
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.css">

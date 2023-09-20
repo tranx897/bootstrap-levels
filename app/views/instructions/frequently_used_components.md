@@ -9,7 +9,7 @@ Here are some Bootstrap components that I use very frequently:
 
 As you can see, the latter three include dynamic behavior and/or animations. This is awesome! One of the biggest benefits of Bootstrap is that it includes battle-tested JavaScript that produces these behaviors.
 
-All we need to do is pull in Bootstrap's pre-written JavaScript, in addition to its CSS. Add the following to your line to your `app/views/layouts/application.html.erb` file:
+All we need to do is pull in Bootstrap's pre-written JavaScript, in addition to its CSS. Add the following to your line to your `app/views/layouts/application.html.erb` file (don't add it twice if you already see it there):
 
 ```html
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
