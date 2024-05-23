@@ -1,0 +1,35 @@
+.base-button {
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 5px;
+
+  box-shadow: 2px 22px 119px 18px rgba(0,0,0,0.75) inset;
+  -webkit-box-shadow: 2px 22px 119px 18px rgba(0,0,0,0.75) inset;
+  -moz-box-shadow: 2px 22px 119px 18px rgba(0,0,0,0.75) inset;
+}
+ 
+.fancy-button {
+  background-color: blue;   
+}
+
+.fancy-button:hover {
+  background-color: darkblue;
+}
+
+.fancy-button:active {
+  background-color: red;
+}
+.scary-button {
+  background-color: red;   
+}
+
+.scary-button:hover {
+  background-color: darkblue;
+}
+
+.scary-button:active {
+  background-color: red
+}
